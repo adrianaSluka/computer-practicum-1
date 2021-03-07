@@ -1,0 +1,6 @@
+flask
+csv 0.0.13
+psycopg2
+numpy
+statistics
+python 3.8
