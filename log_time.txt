@@ -1,28 +1,134 @@
-2021-03-07 20:02:18,362 *** Start
-2021-03-07 20:02:18,482 *** end
-2021-03-07 20:02:31,787 *** Start
-2021-03-07 20:02:31,900 *** end
-2021-03-07 20:18:05,767 *** Start
-2021-03-07 20:18:05,860 *** end
-2021-03-07 20:33:29,872 *** Start
-2021-03-07 20:33:29,955 *** end
-2021-03-07 21:40:09,735 *** Start
-2021-03-07 21:40:10,008 *** end
-2021-03-07 21:42:22,890 *** Start
-2021-03-07 21:47:56,863 *** Start
-2021-03-07 21:51:19,109 *** Start
-2021-03-07 21:52:19,884 *** Start
-2021-03-07 21:52:49,881 *** end
-2021-03-07 21:53:39,831 *** Start
-2021-03-07 21:53:53,747 *** end
-2021-03-07 21:58:50,182 *** Start
-2021-03-07 22:00:20,218 *** end
-2021-03-07 22:14:13,915 *** Start
-2021-03-07 22:20:15,122 *** Start
-2021-03-07 22:20:58,509 *** Start
-2021-03-07 22:21:30,528 *** end
-2021-03-07 22:27:11,503 *** Start
-2021-03-07 22:28:02,347 *** Start
-2021-03-07 22:39:32,368 *** Start
-2021-03-07 22:41:17,175 *** Start
-2021-03-07 22:57:32,307 *** end
+2021-03-13 14:34:10,601 *** Start of program: 
+2021-03-13 14:34:10,650 *** Start of reading from file: 
+2021-03-13 14:34:10,786 *** End of reading from file: 
+2021-03-13 14:34:11,029 *** Inserting data into table: 
+2021-03-13 14:34:17,646 *** Data inserted: 
+2021-03-13 14:34:17,668 *** End of program: 
+2021-03-13 14:55:56,088 *** Start of program
+2021-03-13 14:55:56,129 *** Start of reading from file
+2021-03-13 14:55:56,289 *** End of reading from file
+2021-03-13 14:55:56,601 *** End of program
+2021-03-13 14:57:16,487 *** Start of program
+2021-03-13 14:57:16,518 *** Start of reading from file
+2021-03-13 14:57:16,671 *** End of reading from file
+2021-03-13 14:57:22,815 *** Start of program
+2021-03-13 14:57:22,862 *** Start of reading from file
+2021-03-13 14:57:23,103 *** End of reading from file
+2021-03-13 14:57:33,894 *** Start of program
+2021-03-13 14:57:33,938 *** Start of reading from file
+2021-03-13 14:57:34,106 *** End of reading from file
+2021-03-13 14:57:46,508 *** Start of program
+2021-03-13 14:57:46,537 *** Start of reading from file
+2021-03-13 14:57:46,692 *** End of reading from file
+2021-03-13 14:57:46,974 *** End of program
+2021-03-13 15:02:02,304 *** Start of program
+2021-03-13 15:02:02,334 *** Start of reading from file
+2021-03-13 15:02:02,464 *** End of reading from file
+2021-03-13 15:02:02,720 *** End of program
+2021-03-13 15:02:34,626 *** Start of program
+2021-03-13 15:02:34,666 *** Start of reading from file
+2021-03-13 15:02:34,820 *** End of reading from file
+2021-03-13 15:02:35,065 *** Inserting data into table
+2021-03-13 15:02:44,377 *** Start of program
+2021-03-13 15:02:44,407 *** Start of reading from file
+2021-03-13 15:02:44,551 *** End of reading from file
+2021-03-13 15:02:44,824 *** Inserting data into table
+2021-03-13 15:02:53,258 *** Start of program
+2021-03-13 15:02:53,288 *** Start of reading from file
+2021-03-13 15:02:53,418 *** End of reading from file
+2021-03-13 15:02:53,676 *** Inserting data into table
+2021-03-13 15:04:00,007 *** Start of program
+2021-03-13 15:04:00,070 *** Start of reading from file
+2021-03-13 15:04:00,231 *** End of reading from file
+2021-03-13 15:04:00,482 *** Inserting data into table
+2021-03-13 15:04:07,249 *** Data inserted
+2021-03-13 15:04:07,258 *** End of program
+2021-03-13 15:06:41,369 *** Start of program
+2021-03-13 15:06:41,418 *** Start of reading from file
+2021-03-13 15:06:41,578 *** End of reading from file
+2021-03-13 15:06:41,845 *** Inserting data into table
+2021-03-13 15:06:48,716 *** Data inserted
+2021-03-13 15:06:48,727 *** End of program
+2021-03-13 15:10:39,302 *** Start of program
+2021-03-13 15:10:39,352 *** Start of reading from file
+2021-03-13 15:10:39,495 *** End of reading from file
+2021-03-13 15:10:39,765 *** Inserting data into table
+2021-03-13 15:11:08,997 *** Start of program
+2021-03-13 15:11:09,043 *** Start of reading from file
+2021-03-13 15:11:09,172 *** End of reading from file
+2021-03-13 15:11:09,441 *** Inserting data into table
+2021-03-13 15:11:16,299 *** Data inserted
+2021-03-13 15:11:16,322 *** End of program
+2021-03-13 15:14:27,041 *** Start of program
+2021-03-13 15:14:27,086 *** Start of reading from file
+2021-03-13 15:14:27,218 *** End of reading from file
+2021-03-13 15:14:27,469 *** Inserting data into table
+2021-03-13 15:15:05,230 *** Start of program
+2021-03-13 15:15:05,274 *** Start of reading from file
+2021-03-13 15:15:05,408 *** End of reading from file
+2021-03-13 15:15:05,669 *** Inserting data into table
+2021-03-13 15:15:12,634 *** Data inserted
+2021-03-13 15:15:12,646 *** End of program
+2021-03-13 15:19:05,568 *** Start of program
+2021-03-13 15:19:05,614 *** Start of reading from file
+2021-03-13 15:19:05,753 *** End of reading from file
+2021-03-13 15:19:06,007 *** Inserting data into table
+2021-03-13 15:19:13,001 *** Data inserted
+2021-03-13 15:19:13,011 *** End of program
+2021-03-13 15:21:21,643 *** Start of program
+2021-03-13 15:21:21,697 *** Start of reading from file
+2021-03-13 15:21:21,840 *** End of reading from file
+2021-03-13 15:21:22,087 *** Inserting data into table
+2021-03-13 15:23:46,646 *** Start of program
+2021-03-13 15:23:46,688 *** Start of reading from file
+2021-03-13 15:23:46,854 *** End of reading from file
+2021-03-13 15:23:47,095 *** Inserting data into table
+2021-03-13 15:23:53,847 *** Data inserted
+2021-03-13 15:23:53,858 *** End of program
+2021-03-13 15:26:47,903 *** Start of program
+2021-03-13 15:26:47,931 *** Start of reading from file
+2021-03-13 15:26:48,073 *** End of reading from file
+2021-03-13 15:26:48,326 *** End of program
+2021-03-13 15:26:54,151 *** Start of program
+2021-03-13 15:26:54,180 *** Start of reading from file
+2021-03-13 15:26:54,327 *** End of reading from file
+2021-03-13 15:26:54,599 *** End of program
+2021-03-13 15:27:11,019 *** Start of program
+2021-03-13 15:27:11,048 *** Start of reading from file
+2021-03-13 15:27:11,181 *** End of reading from file
+2021-03-13 15:27:11,433 *** Inserting data into table
+2021-03-13 15:34:00,271 *** Start of program
+2021-03-13 15:34:00,320 *** Start of reading from file
+2021-03-13 15:34:00,452 *** End of reading from file
+2021-03-13 15:34:00,705 *** Inserting data into table
+2021-03-13 15:36:24,717 *** Start of program
+2021-03-13 15:36:24,752 *** Start of reading from file
+2021-03-13 15:36:24,910 *** End of reading from file
+2021-03-13 15:36:25,195 *** Inserting data into table
+2021-03-13 15:36:53,171 *** Start of program
+2021-03-13 15:36:53,204 *** Start of reading from file
+2021-03-13 15:36:53,338 *** End of reading from file
+2021-03-13 15:36:53,594 *** Inserting data into table
+2021-03-13 15:40:02,643 *** Start of program
+2021-03-13 15:40:02,673 *** Start of reading from file
+2021-03-13 15:40:02,807 *** End of reading from file
+2021-03-13 15:40:03,052 *** Inserting data into table
+2021-03-13 15:43:19,783 *** Start of program
+2021-03-13 15:43:19,811 *** Start of reading from file
+2021-03-13 15:43:19,950 *** End of reading from file
+2021-03-13 15:43:20,196 *** Inserting data into table
+2021-03-13 15:43:25,411 *** Data inserted
+2021-03-13 15:43:25,420 *** End of program
+2021-03-13 15:51:46,494 *** Start of program
+2021-03-13 15:51:46,540 *** Start of reading from file
+2021-03-13 15:53:01,552 *** End of reading from file
+2021-03-13 15:55:50,644 *** Start of program
+2021-03-13 15:55:50,681 *** Start of reading from file
+2021-03-13 15:55:50,817 *** End of reading from file
+2021-03-13 15:55:51,089 *** Inserting data into table
+2021-03-13 15:55:56,234 *** Start of program
+2021-03-13 15:55:56,263 *** Start of reading from file
+2021-03-13 15:55:56,407 *** End of reading from file
+2021-03-13 15:55:56,674 *** Inserting data into table
+2021-03-13 15:56:01,643 *** Data inserted
+2021-03-13 15:56:01,655 *** End of program
